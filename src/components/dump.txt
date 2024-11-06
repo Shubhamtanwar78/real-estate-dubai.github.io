@@ -1,0 +1,28 @@
+const randomLetters1 = 'QWERTYUIOPAS!?%^&DFGHJKLZXCVBNMD'.split('');
+const randomLetters2 = 'CUTHGCPDESHCO!?%^&KSBCURFPAMEBCU'.split('');
+const randomLetters3 = 'TGVORNCTDLNWH!?%^&QXPTMVUFGRKSOB'.split('');
+const randomLetters4 = 'QXPTMVUFGRKSO!?%^&TGVORNCTDLNWHA'.split('');
+const randomLetters5 = 'KSBCURFPAMEBC!?%^&CUTHGCPDESHCOI'.split('');
+for(i=0; i<32; i++){
+    (function(i) {
+        setTimeout(function() { 
+            document.getElementsByClassName('vdt1')[0].innerHTML = randomLetters1[i];
+                document.getElementsByClassName('vdt2')[0].innerHTML = randomLetters2[i];
+                    document.getElementsByClassName('vdt3')[0].innerHTML = randomLetters3[i]; 
+                        document.getElementsByClassName('vdt4')[0].innerHTML = randomLetters4[i]; 
+                            document.getElementsByClassName('vdt5')[0].innerHTML = randomLetters5[i]; 
+        }, 100 * i);
+    })(i);
+}
+
+<div className="videoIntro">
+    <video src='./customVideo.mp4' className="videoTag" autoplay="autoplay" muted loop preload='auto' play>
+    </video>
+    <div className="videoText">
+        <div className="videoDivTextStart vdt1">D</div>
+        <div className="videoDivTextStart vdt2">U</div>
+        <div className="videoDivTextStart vdt3">B</div>
+        <div className="videoDivTextStart vdt4">A</div>
+        <div className="videoDivTextEnd vdt5">I</div>
+    </div>
+</div>

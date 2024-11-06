@@ -1,0 +1,20 @@
+[
+    {"list":{
+        "list1":[
+            {"id":1,"buildingImg":"./images/propertyImg/1.jpg","imgURL":"./images/profile/sam.jpg","ownerName":"James Bond","ownerComp":"CEO XYZ Company"},
+            {"id":2,"buildingImg":"./images/propertyImg/2.jpg","imgURL":"./images/profile/Linda.jpeg","ownerName":"Christopher Thomas","ownerComp":"CEO XYZ Company"},
+            {"id":3,"buildingImg":"./images/propertyImg/3.jpg","imgURL":"./images/profile/Rihana.webp","ownerName":"David Jhon","ownerComp":"CEO XYZ Company"}
+        ],
+        "list2":[
+            {"id":4,"buildingImg":"./images/propertyImg/2.jpg","imgURL":"./images/profile/Linda.jpeg","ownerName":"Christopher Thomas","ownerComp":"CEO XYZ Company"},
+            {"id":5,"buildingImg":"./images/propertyImg/3.jpg","imgURL":"./images/profile/Alex.jpeg","ownerName":"David Jhon","ownerComp":"CEO XYZ Company"},
+            {"id":6,"buildingImg":"./images/propertyImg/1.jpg","imgURL":"./images/profile/sam.jpg","ownerName":"James Bond","ownerComp":"CEO XYZ Company"}
+        ],
+        "list3":[
+            {"id":7,"buildingImg":"./images/propertyImg/3.jpg","imgURL":"./images/profile/Rihana.webp","ownerName":"David Jhon","ownerComp":"CEO XYZ Company"},
+            {"id":8,"buildingImg":"./images/propertyImg/1.jpg","imgURL":"./images/profile/Linda.jpeg","ownerName":"James Bond","ownerComp":"CEO XYZ Company"},
+            {"id":9,"buildingImg":"./images/propertyImg/2.jpg","imgURL":"./images/profile/sam.jpg","ownerName":"Christopher Thomas","ownerComp":"CEO XYZ Company"}
+            ]
+        }
+    }
+]
