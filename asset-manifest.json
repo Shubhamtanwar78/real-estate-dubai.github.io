@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/real-estate-dubai.github.io/static/css/main.a87fdf71.css",
+    "main.js": "/real-estate-dubai.github.io/static/js/main.56573e5e.js",
+    "static/js/453.2db0b49d.chunk.js": "/real-estate-dubai.github.io/static/js/453.2db0b49d.chunk.js",
+    "static/media/1.jpg": "/real-estate-dubai.github.io/static/media/1.e2f21badfd84eea66094.jpg",
+    "static/media/5.jpg": "/real-estate-dubai.github.io/static/media/5.ed80a888147826c1c39a.jpg",
+    "static/media/2.jpg": "/real-estate-dubai.github.io/static/media/2.3372098fbc40cb96d7df.jpg",
+    "static/media/6.jpg": "/real-estate-dubai.github.io/static/media/6.aac80f71a54a4c91e32f.jpg",
+    "static/media/4.jpg": "/real-estate-dubai.github.io/static/media/4.aec7e476c827fed903b8.jpg",
+    "static/media/3.jpg": "/real-estate-dubai.github.io/static/media/3.cf450772b26ac1e0b243.jpg",
+    "static/media/Dubai_Skyline.svg": "/real-estate-dubai.github.io/static/media/Dubai_Skyline.652bb570a4a38bfa59c0839d255dedc6.svg",
+    "static/media/Recommendation.webp": "/real-estate-dubai.github.io/static/media/Recommendation.1d9d5bce566c85fa242c.webp",
+    "index.html": "/real-estate-dubai.github.io/index.html",
+    "main.a87fdf71.css.map": "/real-estate-dubai.github.io/static/css/main.a87fdf71.css.map",
+    "main.56573e5e.js.map": "/real-estate-dubai.github.io/static/js/main.56573e5e.js.map",
+    "453.2db0b49d.chunk.js.map": "/real-estate-dubai.github.io/static/js/453.2db0b49d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87fdf71.css",
+    "static/js/main.56573e5e.js"
+  ]
+}
